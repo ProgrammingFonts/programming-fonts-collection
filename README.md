@@ -1,21 +1,21 @@
-# ProgrammingFonts
+# Programming Fonts
 
 <img src="logo-programming-fonts.png" width="" height="200"/>
 
 
-### If you have a try of another kind of programming font,maybe you can have a new different feeling of coding which will make you feel fabulous,so just have a try!
+### If you have a try of another kind of programming font,maybe you can have a new different feeling of coding which will make you feel fabulous like me 😉 ,so just have a try!
 
 #### Official website:
 
-[http://www.programmingfonts.com](http://www.programmingfonts.com)
+[http://www.programmingfonts.com]
 
 #### Github
 
-[https://github.com/ProgrammingFonts/ProgrammingFonts](https://github.com/ProgrammingFonts/ProgrammingFonts)
+[https://github.com/ammarmukadam367/ProgrammingFonts](https://github.com/ammarmukadam367/ProgrammingFonts)
 
 #### What's this?
 
-This is only a collection of programming fonts,just share this with the programmers.
+This is only a collection of programming fonts, Just share this with the programmers.
 
 #### Which kind of font can be programming font?
 
@@ -35,7 +35,7 @@ All of the characters must be easily identified.There must be no confusion about
 
 #### Copyright Declaration:
 
-All the fonts are from the internet.If I have copyright infringement,please tell me to remove the fonts.
+All the fonts are from the internet. If I have Copyright infringement, please tell me to remove the fonts. 🤗
 
 #### The following fonts are here:
 
@@ -353,8 +353,8 @@ Wyse700b-2y     | 16x32 |24  |■|
 
 #### Notice:
 
-The fonts here maybe not the latest,and lack of some fonts,but I will update by continuous.
+The fonts here maybe not the latest, and lack of some fonts. but I will update by continuous.
 
 #### Contribution:
 
-If you what to share the programming fonts that you know or update this project,you can fork this repository to contribute or tell me in the issues.
+If you want to share the ProgrammingFonts that you know or update this project, You can fork this repository to contribute or tell me in the issues.
